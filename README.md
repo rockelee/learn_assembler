@@ -3,7 +3,7 @@
 
 
 ### 文件介绍
-- learn_aassembler.ova
+- learn_assembler.ova
   - dos虚拟机导出文件
   - c:\masm下面是各章的asm代码
   - c:\TC\tc\minitc是综合研究
